@@ -1,3 +1,5 @@
+![cooltext394039369400873](https://user-images.githubusercontent.com/80684647/134884752-cae524aa-d0dd-4e4d-af11-419aeaba65c2.png)
+
 ### Hi there 👋
 
 ### Languages
@@ -31,7 +33,7 @@
   ### Activity Graph
 
   <div>
-    <a href="#"><img alt="Tran Minh Thuan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=minhthuan191&custom_title=Thai%20Thinh's%20Contribution%20Graph&bg_color=0D1117&color=b16be3&line=5f55ed&point=45e9ff&hide_border=true" /></a>
+    <a href="#"><img alt="Tran Minh Thuan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=minhthuan191&custom_title=Tran%20Minh%20Thuan's%20Contribution%20Graph&bg_color=0D1117&color=b16be3&line=5f55ed&point=45e9ff&hide_border=true" /></a>
   <div> 
 </div>
 
