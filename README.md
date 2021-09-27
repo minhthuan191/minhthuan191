@@ -21,7 +21,7 @@
 
   <div align="center">
     <a href="#"><img alt="Tran Minh Thuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=minhthuan191&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4d82eb&icon_color=5f55ed" height="200"/></a>
-    <a href="#"><img alt="Tran Minh Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthuan191&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=b16be3&icon_color=5f55ed" height="200"/></a>
+    <a href="#"><img alt="Tran Minh Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthuan191&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4d82eb&icon_color=5f55ed" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
@@ -31,7 +31,7 @@
   ### Activity Graph
 
   <div>
-    <a href="#"><img alt="Tran Minh Thuan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thaithinhfgc&custom_title=Thai%20Thinh's%20Contribution%20Graph&bg_color=0D1117&color=b16be3&line=5f55ed&point=45e9ff&hide_border=true" /></a>
+    <a href="#"><img alt="Tran Minh Thuan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=minhthuan191&custom_title=Thai%20Thinh's%20Contribution%20Graph&bg_color=0D1117&color=b16be3&line=5f55ed&point=45e9ff&hide_border=true" /></a>
   <div> 
 </div>
 
